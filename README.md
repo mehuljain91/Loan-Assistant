@@ -1,4 +1,4 @@
-# loan-assistant
+# Loan-Assistant
 
 Input a loan balance and yearly interest rate. You then have two options: 
 1. enter the desired number of payments and the loan assistant computes the monthly payment, or 
